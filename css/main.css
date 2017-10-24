@@ -1,0 +1,11 @@
+body {
+   background: red; 
+}
+
+ul {
+    background: pink;
+}
+
+li.one {
+    background: gold;
+}
